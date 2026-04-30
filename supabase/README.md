@@ -4,6 +4,10 @@
 <img width="2" height="3" alt="image" src="https://github.com/user-attachments/assets/b2ba03bf-cecf-4a45-81ba-16b3fbb1ab30" />
 
 
+---
+
+pages/index.tsx
+
 conect API URL
 
 ```
