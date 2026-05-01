@@ -3,6 +3,7 @@
 
 1
 
+<img width="1920" height="1080" alt="Captura de pantalla 2026-04-29 135211" src="https://github.com/user-attachments/assets/3f077161-95a7-4b12-b6a4-200eda157015" />
 <img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/667a1d06-9b60-4deb-8b55-bdfd2523873a" />
 
 2-
@@ -57,7 +58,6 @@
 
 14-
 
-<img width="1920" height="1080" alt="Captura de pantalla 2026-04-29 135211" src="https://github.com/user-attachments/assets/3f077161-95a7-4b12-b6a4-200eda157015" />
 
 15--
 
